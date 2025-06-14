@@ -1,8 +1,15 @@
 # <img src="images/zucchini.png" alt="Zucchini" width="256">
-Working on my Master's in Computer Science at Florida Polytechnic University. Hoping to find a company that will hire me so that I don't have to start my own.
+Working on my master's in computer science at Florida Polytechnic University. Hoping to find a company that will hire me so that I don't have to start my own.
 
 ## Projects
-Too many
+Too many ideas and not enough time to work on them all
+
+Current/active projects:
+- Game engine
+- Editor for the engine
+- VR file browser
+- TIS-100 emulator
+- Wii BASIC interpreter
 
 ## Programming
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -31,6 +38,8 @@ Too many
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 
+Some languages not listed, and plenty more I would like to work with for at least a short time. I have a goal to do each year of Advent of Code in a different language. Some of the choices are for fun and not practicality like COBOL and PowerPC assembly. Rust became my main language after a brief period of using Kotlin.
+
 ## Devices
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -40,9 +49,15 @@ Too many
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- LG V20
+I've been using Ubuntu as my main OS since 2020 and am planning to switch to NixOS in the near future.
+
+<details>
+<summary>Device list</summary>
+
+-  LG V20
 - iPhone SE 2
 - Samsung Galaxy Tab S9+
+- Valve Index
 - Main Desktop
   - Ubuntu 24.04 and Windows 10
   - AMD Ryzen 7 3700X
@@ -75,3 +90,5 @@ Too many
 - x7 Raspberry Pi Pico 2
 - x2 Raspberry Pi Pico
 - OrangePi RV2 8 GB
+
+</details>
