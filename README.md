@@ -1,4 +1,4 @@
-## Zucchini
+# <img src="images/zucchini.png" alt="Zucchini" width="256">
 Working on my Master's in Computer Science at Florida Polytechnic University. Hoping to find a company that will hire me so that I don't have to start my own.
 
 ## Projects
