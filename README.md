@@ -1,5 +1,5 @@
 # <img src="images/zucchini.png" alt="Zucchini" width="256">
-Working on my master's in computer science at Florida Polytechnic University. Hoping to find a company that will hire me so that I don't have to start my own.
+Hoping to find a company that will hire me so that I don't have to start my own.
 
 ## Projects
 Too many ideas and not enough time to work on them all
@@ -8,8 +8,10 @@ Current/active projects:
 - Game engine
 - Editor for the engine
 - VR file browser
+- OS for the 1998 Desktop
 - TIS-100 emulator
 - Wii BASIC interpreter
+- U3 PS2
 
 ## Programming
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -79,9 +81,10 @@ I've been using Ubuntu as my main OS since 2020 and am planning to switch to Nix
   - 8 GB RAM
 - XP Desktop
   - Windows XP
-  - Not sure
+  - Intel Pentium 4 2.8 GHz
+  - 1 GB RAM
 - 1998 Desktop
-  - Dead hard drive
+  - Windows ME
   - Cyrix MediaGXm-S 233 MHz
   - 32 MB RAM
 - Raspberry Pi 5 8 GB
